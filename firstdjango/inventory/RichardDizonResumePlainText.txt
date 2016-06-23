@@ -1,0 +1,60 @@
+RICHARD C. DIZON
+102 Shamrock Rd. Apt 1
+Charlottesville, VA 22903  
+(757) 297-9354  
+rdizon@virginia.edu
+
+~~~~~~~~~~
+EXPERIENCE
+~~~~~~~~~~
+
+Software Engineering Intern : Commonwealth Computer Research, Inc. : June 2016 - Present
+• Developing an analytics and visualization suite that analyzes temporal, spatial, and multi-dimensional data for the purpose of finding patterns and discovering relationships to forecast future trends
+• Improving interface by developing algorithms to display data more precisely and utilizing jOOQ, LoDash and Stylus to enhance cross-platform effectiveness of the software
+
+User Interface Design Intern : RouteMine: January - May 2016
+• Designed and delivered iPhone application interface that has increased Apple Store downloads by over 500
+• Implemented open-source tools to develop new architecture to create faster, more responsive interface interaction, focusing on user goals of a social media application to entice usage
+
+Front-End Developer : UVA Center for Diversity in Engineering : August 2015 - Present
+• Developing front-end features for homepage news feed, optimizing page navigation, repair various 4XX client errors from existing website and consolidate information from related pages
+• Improving user experience via JavaScript frameworks, focusing on client use-case and collaborating with university
+
+Game Development Program Teaching Assistant : LEAD Computer Science Institute : June - July 2016
+• Aided 30 students with small-scale, Python-based game projects, specializing on interfaces and game mechanics
+• Maintained course website and held office hours on introductory topics regarding data structures and human-computer interaction
+
+Business and Webpage Founder : Richard Dizon Photography : April 2015 - Present
+• Developed personally designed website to augment successful business as professional student photographer marketed towards university contracted organizations, Greek organizations and business oriented students
+• Accumulated over 1,000 Facebook likes within span of 6 months of operation with posts organically reaching up to 10,000 Facebook users as a result of bi-weekly client requests
+
+~~~~~~~~
+PROJECTS
+~~~~~~~~
+
+Programming Language Interpreter : January - May 2016
+• Created a four part interpreter for COOL programming language that constructs tokens using a lexical analyzer, performs semantic analysis to rule out malformed input and generates an abstract syntax tree that computes output
+• Ensured high quality code by executing pair programming approach and developed parts in Python and OCaml
+
+Ghost Hunter : March - May 2015
+• Worked as User Experience manager on 4-person Android app development team and implemented several Java classes into framework using Android Studio
+• Redesigned and repurposed existing sprites to be implemented and developed button response mechanics 
+
+Artificial Wave Generator Program : January - March 2014
+• Built program in Java using Arduino Uno to control oscillating mechanism in order to simulate waves crashing on an artificial island in a large fish tank
+• Implemented for the purpose of assisting a 50 student high school Earth Science program conceptualize the impact of waves on ecosystems through large fishtank-sized model
+
+~~~~~~~~~~~~~~~~
+TECHNICAL SKILLS
+~~~~~~~~~~~~~~~~
+
+PROGRAMMING LANGUAGES: Java, C++, Python, JavaScript, PHP, MySQL
+TOOLS: Git, IntelliJ, Vim, Sublime, Linux, VirtualBox, Cygwin
+
+~~~~~~~~~
+EDUCATION
+~~~~~~~~~
+
+University of Virginia : August 2014 - May 2018
+B.S. Computer Science - School of Engineering and Applied Science
+Coursework: Programming Languages for Web Applications, Language Design and Implementation, Digital Logic Design, Software Development Techniques, Program and Data Representation, Engineering Leadership and Teamwork
